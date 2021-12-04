@@ -1,0 +1,17 @@
+.header-color{
+    background-color: #264653;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
+.clients-img-hw{
+    height: 150px;
+    width: 150px;
+}
+.footer-color{
+    background-color: #0B0D17;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
