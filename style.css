@@ -53,3 +53,10 @@ a{
     }
     
 }
+hr{
+    width: 100px;
+    /* border: 1px solid #E76F51; */
+    border: 1.5px solid #dc3545;
+    color: #dc3545;
+    border-radius: 1px;
+}
