@@ -1,3 +1,31 @@
+/* font Style  */
+/* heading one  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto+Slab&family=Volkhov:wght@700&display=swap');
+
+/* baka lekha  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto+Slab&family=Volkhov:ital@1&display=swap');
+
+/* body  */
+@import url('https://fonts.googleapis.com/css2?family=Eczar&family=Poppins:wght@500&family=Roboto+Slab&display=swap');
+
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Volkhov', serif;
+    font-weight: 700;
+}
+.baka-lekha{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Volkhov', serif;
+    font-weight: 700;
+}
+body{
+    font-family: 'Eczar', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
 .header-color{
     background-color: #264653;
 }
