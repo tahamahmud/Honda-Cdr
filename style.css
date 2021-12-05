@@ -43,3 +43,14 @@ a{
     text-decoration: none;
     color: aliceblue;
 }
+
+/* midea Quyari  */
+@media (max-width:992px) {
+    .footer-color{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+}
