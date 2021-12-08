@@ -43,6 +43,11 @@ a{
     text-decoration: none;
     color: aliceblue;
 }
+hr{
+    width: 100px;
+    border-top: 3px solid #dc3545;
+    border-radius: 1px;
+}
 
 /* midea Quyari  */
 @media (max-width:992px) {
@@ -52,11 +57,4 @@ a{
         align-items: flex-start;
     }
     
-}
-hr{
-    width: 100px;
-    /* border: 1px solid #E76F51; */
-    border: 1.5px solid #dc3545;
-    color: #dc3545;
-    border-radius: 1px;
 }
